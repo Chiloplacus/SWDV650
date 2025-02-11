@@ -1,0 +1,15 @@
+# Figma Design Process
+
+Each UI component has a corresponding Figma (.fig) file stored in its own branch.
+I have uploaded blank .fig files with connections to this repo in them.
+
+## How to Work with Figma Files:
+1. Open the corresponding Figma file from the GitHub branch, labeled with the Jira key.
+2. Edit the file as you see fit.
+3. Use the GitHub plugin to sync your changes (this is new, it should work)
+4. If the plugin does not work, go to the top project ->file->save local copy to get the .fig file
+5. Commit updates to GitHub with the Jira issue key
+6. Create a pull request when ready for review 
+7. Not sure if this last step is necessary, and this whole thing might be overkill :)
+
+
